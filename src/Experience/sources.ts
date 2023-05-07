@@ -18,16 +18,6 @@ export default [
         path: 'textures/gradients/5.jpg'
     },
     {
-        name: 'grassColorTexture',
-        type: 'texture',
-        path: 'textures/dirt/color.jpg'
-    },
-    {
-        name: 'grassNormalTexture',
-        type: 'texture',
-        path: 'textures/dirt/normal.jpg'
-    },
-    {
         name: 'wallModel',
         type: 'gltfModel',
         path: 'models/Wall/Wall.glb'
